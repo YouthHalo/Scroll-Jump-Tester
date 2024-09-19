@@ -1,0 +1,11 @@
+body {
+	height: 1000vh;
+	transition: background 0.01s ease-in-out;
+}
+
+.text {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
